@@ -1,18 +1,12 @@
-<!doctype html>
+
 <html>
     <head>
-      <tittle></tittle>
-      <link rel
+      <tittle>ReadMe</tittle>
             </head>
       <body>
-        <h1>About Me</h1>
-        <br>
-        <p> 🙋‍♂️My name is Muichiro </p>
-        <br>
-        <p>❤️ I love to code</p>
-        <br>
-        <p> I'm finding teamates for a project of html and css</p>
-        <br>
-<p> Note: The project will be just for fun</p>
-        </body>
-      </html>
+       <p><b>Username: </b> fallenStar</p>
+<br>
+										<p><b>Age: </b>16</p>
+<p><b>Region: </b>Bangladesh🇧🇩</p>
+<br>
+<p> I LOVE WEB DEVLOPING & AND WISH TO BE A FULL-TIME WEB DEVLOPER ONE DAY </p>
