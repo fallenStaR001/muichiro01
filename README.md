@@ -9,10 +9,7 @@
 <p><b>Region: </b>Bangladesh🇧🇩</p>
 <br>
 <p> I LOVE WEB DEVLOPING & AND WISH TO BE A FULL-TIME WEB DEVLOPER ONE DAY </p>
-<style>
-body {
-background-color: #000000;
-}
+
 </style>
 </body>
 </html>
